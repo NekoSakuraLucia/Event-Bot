@@ -1,0 +1,22 @@
+{
+  "name": "neko-event-bot-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NekoSakuraLucia/Event-Bot.git"
+  },
+  "author": "NekoSakuraLucia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NekoSakuraLucia/Event-Bot/issues"
+  },
+  "homepage": "https://github.com/NekoSakuraLucia/Event-Bot#readme",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^14.16.3"
+  }
+}
